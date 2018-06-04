@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton/bin/Debug/netcoreapp2.0/Singleton.deps.json
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton/bin/Debug/netcoreapp2.0/Singleton.runtimeconfig.json
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton/bin/Debug/netcoreapp2.0/Singleton.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton/bin/Debug/netcoreapp2.0/Singleton.dll
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton/bin/Debug/netcoreapp2.0/Singleton.pdb
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton/obj/Debug/netcoreapp2.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton/obj/Debug/netcoreapp2.0/Singleton.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton/obj/Debug/netcoreapp2.0/Singleton.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton/obj/Debug/netcoreapp2.0/Singleton.dll
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton/obj/Debug/netcoreapp2.0/Singleton.pdb
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton/obj/Debug/netcoreapp2.0/Singleton.csprojResolveAssemblyReference.cache

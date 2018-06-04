@@ -1,0 +1,17 @@
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/bin/Debug/netcoreapp2.0/Singleton.Tests.deps.json
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/bin/Debug/netcoreapp2.0/Singleton.Tests.runtimeconfig.json
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/bin/Debug/netcoreapp2.0/Singleton.Tests.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/bin/Debug/netcoreapp2.0/Singleton.Tests.dll
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/bin/Debug/netcoreapp2.0/Singleton.Tests.pdb
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/bin/Debug/netcoreapp2.0/Singleton.dll
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/bin/Debug/netcoreapp2.0/Singleton.pdb
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/obj/Debug/netcoreapp2.0/Singleton.Tests.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/obj/Debug/netcoreapp2.0/Singleton.Tests.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/obj/Debug/netcoreapp2.0/Singleton.Tests.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/obj/Debug/netcoreapp2.0/Singleton.Tests.dll
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/obj/Debug/netcoreapp2.0/Singleton.Tests.pdb
+/Users/koji/Repositories/Csharp/SingletonSolution/Singleton.Tests/obj/Debug/netcoreapp2.0/Singleton.Tests.csprojResolveAssemblyReference.cache
